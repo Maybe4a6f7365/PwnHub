@@ -1,0 +1,23 @@
+# Data and user-generated content
+data/
+pubsub/
+uploads/
+sessions/
+
+# Logs
+*.log
+server.log
+
+# Temporary files
+tmp.*
+.tmp
+
+# IDE and editor files
+.vscode/
+*.swp
+*.swo
+*~
+
+# System files
+.DS_Store
+Thumbs.db
