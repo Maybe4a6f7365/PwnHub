@@ -180,6 +180,8 @@ sudo apt-get install ucspi-tcp
 ./start.sh
 ```
 
+Security Note: This is built for learning and small CTF teams, not production use. If you deploy it, use proper access controls like Cloudflare tunnels, ngrok, or VPN. Be careful about who you give access to.
+
 ---
 
 ## Development
