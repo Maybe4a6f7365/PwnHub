@@ -77,7 +77,7 @@ Basic security tools for CTF competitions:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/pwnhub.git
+git clone https://github.com/Maybe4a6f7365/PwnHub.git
 cd PwnHub
 
 # Make scripts executable
